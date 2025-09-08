@@ -4,10 +4,7 @@
 ![alt text](image-1.png)
 
 #Table evaluation of logistical regression and decision tree
-id | Model | Accuracy | Precision | Recall | F1-score | AUC
-
-0 Logistic Regression 0.744589 0.677419 0.518519 0.587413 0.692593
-1 Decision Tree 0.761905 0.680556 0.604938 0.640523 0.725802
+![alt text](image-3.png)
 
 #Short Discussion of results :
 The decision tree model performed better than the logistic regression model as per ROC and Recall . The dataset has presence of outliers in Insulin , DiabetesPedigreeFunction and Age. The dataset is also small with only 768 samples.
